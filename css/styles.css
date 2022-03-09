@@ -6,7 +6,9 @@
 /* Styles for the body */
 
 body {
-	font-family: Lato, "open sans", Roboto, "Segoe UI", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-family: fino, sefir;
+	font-weight: 400;
+	font-style: italic;
 	color: #202030;
 	background-color: #f8f8fc;
 }
