@@ -9,21 +9,21 @@ body {
 	font-family: fino, sefir;
 	font-weight: 400;
 	font-style: italic;
-	color: #202030;
+	color: #49593F;
 	background-color: #f8f8fc;
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 .resume-header {
-    background-color: #5073D9;
+    background-color: #C9B4C7;
 }
 
 .resume-main {
-	background-color: #58a1d9;
+	background-color: #A49FC3;
 }
 
 .resume-aside {
-	background-color: #F2E2AA;
+	background-color: #AAC9CE;
 }
 
 /* Styles for lists in the document */
@@ -49,4 +49,8 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+.text {
+	Text-shadow: 5px 5px 5px gray;
+	
 }
